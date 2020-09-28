@@ -77,3 +77,11 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+  
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Spain
+        color: info
+      - name: Colombia
+        color: success

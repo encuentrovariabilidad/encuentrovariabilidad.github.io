@@ -81,7 +81,7 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Spain
+      - name: Descanso
         color: info
-      - name: Colombia
+      - name: Talk
         color: success

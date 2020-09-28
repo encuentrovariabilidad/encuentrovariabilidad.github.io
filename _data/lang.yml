@@ -1,5 +1,27 @@
 version: 1
 
+es:
+  pronoun:
+    at: en
+    in: en
+    for: para
+  overview: Overview
+  more_information: Más Información
+  location:
+    title: Lugar
+    directions: Direcciones
+    talks: Charlas en esta sala
+    no_talks: sin charlas programadas
+  program:
+    title: Programa
+    legend: Caption
+  speaker:
+    overview: Speakers
+    title: Speaker
+    talks: Charlas en esta conferencia
+  talk:
+    overview: Charlas
+
 en:
   pronoun:
     at: at

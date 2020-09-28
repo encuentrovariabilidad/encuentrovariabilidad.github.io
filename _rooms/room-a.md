@@ -1,5 +1,6 @@
 ---
-name: Room A
+name: Lunes 26 Octubre
+hide: false
 ---
 
-A short way description on how to find the room
+Aquí podremos disfrutar de las sesiones presentadas el día Lunes 26 de Octubre.

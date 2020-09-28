@@ -1,4 +1,4 @@
-title: Encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto 2020
+title: Encuentro Iberoamericano 2020
 description: >-
   Encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -50,7 +50,7 @@ defaults:
 conference:
 
   # Language
-  lang: en
+  lang: es
 
   # Show theme errors:
   show_errors: True
@@ -58,54 +58,49 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: Encuentro Iberoamericano 
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      url: 'https://encuentrovariabilidad.github.io/'
     links:
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2020 (current)
-            disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+      #- name: Program
+      #  relative_url: /program/
+      #- name: Talks
+      #  relative_url: /talks/
+      #- name: Speakers
+      #  relative_url: /speakers/
+      #- name: Location
+      #  relative_url: /location/
+      #- name: Previous Editions
+      #  menu:
+      #    - name: 2020 (current)
+      #      disabled: true
+      #    - name: 2019
+      #      relative_url: /2019/
+          
 
   # Main landing page
   main:
     # logo:
     #   img: ''
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      #- name: Program
+      #  relative_url: /program/
+      #- name: How to get there
+      #  relative_url: /location/
+      #- name: Tickets
+      #  disabled: true
+      #  absolute_url: ''
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
+    - title: Bienvenidos al sitio web del primer encuentro iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto
       color: primary
       main_only: true
-      text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
-
-        ---
-
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+      text: Actualmente estamos preparando el programa del encuentro. Esperamos poder dar más información en los próximos dias. 
+        
+    #- text: This is just some random content for demonstration purposes.
+    #  color: warning
+    #  pages_only: true
 
   talks:
     # Talk categories
@@ -127,7 +122,7 @@ conference:
     hide: false
     map: 
       # show map
-      enable: true
+      enable: false
       # initial map center point
       home_coord: 47.37808, 8.53935
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/

@@ -1,4 +1,4 @@
-- room: Room A
+- room: Lunes 26 Octubre
   talks:
     - name: Vim Impetus Placerat Cotidieque Ad
       time_start: '12:00'
@@ -7,14 +7,12 @@
       time_start: '12:45'
       time_end: '13:30'
 
-- room: Room B
+- room: Martes 27 Octubre
   talks:
     - name: Arcu Non Odio
       time_start: '12:00'
       time_end: '13:00'
+    - name: Condimentum Vitae Sapien Pellentesque
+      time_start: '12:45'
+      time_end: '13:30'
 
-- room: Room C
-  talks:
-    - name: Eu Nisl Nunc Mi Ipsum Faucibus
-      time_start: '13:30'
-      time_end: '14:30'

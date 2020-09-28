@@ -1,8 +1,8 @@
-title: Conference 2020
+title: Encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto 2020
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  Encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://encuentrovariabilidad.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
@@ -52,7 +52,7 @@ defaults:
 
 # Theme default values
 conference:
-  lang: en
+  lang: es
   show_errors: True
 
   speakers:

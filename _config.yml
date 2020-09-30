@@ -3,8 +3,12 @@ description: >-
   Encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://encuentrovariabilidad.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-theme: jekyll-theme-conference
+#theme: jekyll-theme-conference
+remote_theme: "DigitaleGesellschaft/jekyll-conference@2.0.0"
 
+plugins:
+  - jekyll-include-cache
+  
 # Build settings
 markdown: kramdown
 sass:

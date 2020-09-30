@@ -1,6 +1,12 @@
 ---
 layout: home
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
+El encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto trata de ser un lugar de encuentro entre los distintos investigadores e instituciones de habla hispana existentes a lo largo del planeta. 
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+Los principales objetivos del foro se pueden resumir como:
+
+* Promover la colaboración entre los distintos grupos de investigación dedicados a las lineas de producto, la variabilidad y los sistemas altamente configurables. 
+
+* Aglutinar el conocimiento existente en el area identificando los retos actuales existentes en el area. 
+
+* Promover las sinergias entre la industria y la academia dentro del ambito del encuentro. 

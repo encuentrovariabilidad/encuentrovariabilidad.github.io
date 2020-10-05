@@ -9,5 +9,5 @@ Los principales objetivos del foro se pueden resumir como:
 
 * Aglutinar el conocimiento existente en el area identificando los retos actuales existentes en el area. 
 
-* Promover las sinergias entre la industria y la academia dentro del ámbito del encuentro. 
+* Promover las sinergias entre la industria y la academia dentro del Ã¡mbito del encuentro. 
 

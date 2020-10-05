@@ -96,7 +96,7 @@ conference:
     - title: Bienvenidos al sitio web del primer encuentro iberoamericano sobre Variabilidad, Sistemas Configurables y Líneas de Producto
       color: primary
       main_only: true
-      text: Actualmente estamos preparando el programa del encuentro. Esperamos poder dar más información en los próximos dias. 
+      text: Actualmente estamos preparando el programa del encuentro. Esperamos poder dar más información en los próximos días. 
         
     #- text: This is just some random content for demonstration purposes.
     #  color: warning

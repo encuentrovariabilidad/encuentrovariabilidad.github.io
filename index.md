@@ -102,7 +102,7 @@ Trabajos de investigación que ha realizado, está realizando y va a comenzar el
 
 ---
 
-**Maider Azanza, Arantza Irastorza, Raul Medeiros (Grupo Onekin, UPV/EHU, España)**
+**Maider Azanza, Arantza Irastorza, Raul Medeiros (Grupo Onekin, Universidad del País Vasco, UPV/EHU, España)**
 
 **Nuevas incorporaciones en proyectos SPL: necesidad de herramientas de asistencia**
 
@@ -116,7 +116,7 @@ Cuando nuevos desarrolladores se incorporan al equipo de ingeniería del dominio
 
 ---
 
-**Carlos Cetina (Universidad de San Jorge, España)**
+**Carlos Cetina (Universidad San Jorge - SVIT Research Group, España)**
 
 **Localizando características en modelos para inicializar líneas de producto**
 

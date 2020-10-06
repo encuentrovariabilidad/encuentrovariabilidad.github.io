@@ -19,6 +19,8 @@ Los principales objetivos del foro se pueden resumir como:
 
 **Lista de presentaciones confirmadas (programa definitivo y horas concretas serán anunciadas pronto)**
 
+Coordinadores: Jabier Martínez (Tecnalia), Aitor Arrieta (Univ. de Mondragón), José Galindo (Univ. de Sevilla) y Lidia Fuentes (Univ. de Málaga)
+
 ##Lunes
 
 **Julio Ariel Hurtado Alegría (Universidad del Cauca, Colombia)**

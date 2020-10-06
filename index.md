@@ -45,6 +45,13 @@ Esta presentación muestra como VariaMos apoya la gestión de líneas de product
 
 Resumiremos nuestra trayectoria en el mundo de la variabilidad y SPL y hablaremos de posibles colaboraciones que podemos ofrecer desde la Universidad de Sevilla al consorcio. 
 
+---
+
+**Lidia Fuentes (Universidad de Málaga, España)**
+
+**La red TASOVA y grupo CAOSD**
+
+Presentaremos los objetivos y las oportunidades de colaboración de la red TASOVA (Red en nuevas Tendencias en Arquitectura Software y Variabilidad) y también las líneas de investigación actuales del grupo CAOSD/UMA.
 
 ##Martes
 

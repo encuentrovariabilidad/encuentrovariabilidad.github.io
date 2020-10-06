@@ -7,7 +7,7 @@ El encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Lí­ne
 
 **De 15:00 pm (hora en España) hasta 17:30 pm**
 
-[Regístrate gratuitamente pinchando aquí](https://forms.gle/WcZJ6orzLNX2GSuw6)
+[**REGÍSTRATE GRATUITAMENTE PINCHANDO AQUÍ**](https://forms.gle/WcZJ6orzLNX2GSuw6)
 
 Los principales objetivos del foro se pueden resumir como:
 
@@ -113,6 +113,15 @@ Cuando nuevos desarrolladores se incorporan al equipo de ingeniería del dominio
 **Leticia Montalvillo (IKERLAN, España)**
 
 **Direcciones actuales en IKERLAN**
+
+---
+
+**Carlos Cetina (Universidad de San Jorge, España)**
+
+**Localizando características en modelos para inicializar líneas de producto**
+
+En el grupo SVIT trabajamos en la intersección entre Líneas de Producto e Ingeniería Dirigida por Modelos. En concreto, abordamos el desafío de localizar en los modelos las características que pueden utilizarse para inicializar un Línea de Productos. Para ello, hemos utilizado técnicas de: procesado del lenguaje natural, recuperación de la información, algoritmos de búsqueda, machine learning, análisis dinámico de tiempo de ejecución, y colaboración entre ingenieros. Nuestros casos de estudio más populares son firmware de placas de inducción, software de control y gestión de trenes, y videojuegos.
+
 
  
 

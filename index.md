@@ -74,8 +74,13 @@ En la presentación se motivará la necesidad de incorporar capacidades de adapt
 
 **Roberto Erick Lopez Herrejon (Ecole de Technologie Superieure, Canada)**
 
-Durante la sesión presentaré las principales líneas de investigación del grupo que dirijo en la École de technologie supérieure así como las oportunidades de colaboraciones internacionales y alternativas de financiamiento. 
+Durante la sesión presentaré las principales líneas de investigación del grupo que dirijo en la École de technologie supérieure así como las oportunidades de colaboraciones internacionales y alternativas de financiamiento.
 
+---
+
+** Francisco Valdés Souto (Universidad Nacional Autónoma de México (UNAM), México) **
+
+Presentación de la investigación que se hace actualmente para ver si existe vínculo con SPLC
 
 ##Lunes o Martes
 

@@ -1,10 +1,9 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Trayectoria y posibles colaboraciones desde Sevilla
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - David Benavides
+  - José A. Galindo
 categories:
-  - Cat A
-  - Talk
+  - Presentación de grupo y colaboraciones
 hide: true
 ---

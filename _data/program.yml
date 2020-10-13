@@ -1,18 +1,69 @@
 - room: Lunes 26 Octubre
   talks:
-    - name: Vim Impetus Placerat Cotidieque Ad
-      time_start: '12:00'
-      time_end: '12:45'
-    - name: Condimentum Vitae Sapien Pellentesque
-      time_start: '12:45'
-      time_end: '13:30'
-
+   - name: Bienvenida
+     time_start: '15:00'
+     time_end: '15:15'
+   - name: Trayectoria y posibles colaboraciones desde Sevilla
+     time_start: '15:15'
+     time_end: '15:30'
+   - name: Leticia Montalvillo
+     time_start: '15:30'
+     time_end: '15:45'
+   - name: VariaMos - Una herramienta para gestionar líneas de productos
+     time_start: '15:45'
+     time_end: '16:00'
+   - name: Descanso para el café
+     time_start: '16:00'
+     time_end: '16:15'
+   - name: La red TASOVA y grupo CAOSD
+     time_start: '16:15'
+     time_end: '16:30'
+   - name: SYST-UPM. Variabilidad Software Pasado, Presente y Futuro
+     time_start: '16:30'
+     time_end: '16:45'
+   - name: Líneas de Productos y líneas de procesos en el Grupo IDIS
+     time_start: '16:45'
+     time_end: '17:00'
+   - name: mHealth, IoT y prácticas en NUTES y Sênior Mobile Health
+     time_start: '17:00'
+     time_end: '17:15'
+   - name: Nuevas incorporaciones en proyectos SPL. Necesidad de herramientas de asistencia
+     time_start: '17:15'
+     time_end: '17:30'   
 - room: Martes 27 Octubre
   talks:
-    - name: Arcu Non Odio
-      time_start: '12:00'
-      time_end: '13:00'
-    - name: Condimentum Vitae Sapien Pellentesque
-      time_start: '12:45'
-      time_end: '13:30'
+   - name: Bienvenida
+     time_start: '15:00'
+     time_end: '15:15'
+   - name: Leticia Montalvillo
+     time_start: '15:15'
+     time_end: '15:30'
+   - name: Modelado y gestión dinámica de la variabilidad en sistemas robóticos
+     time_start: '15:30'
+     time_end: '15:45'
+   - name: Demostración. Línea de producto software y desarrollo dirigido por modelos para la generación de aplicaciones web
+     time_start: '15:45'
+     time_end: '16:00'
+   - name: Descanso para el café
+     time_start: '16:00'
+     time_end: '16:15'
+   - name: Roberto Erick Lopez Herrejon
+     time_start: '16:15'
+     time_end: '16:30'
+   - name: Verificación y Validación de Sistemas Altamente Configurables
+     time_start: '16:30'
+     time_end: '16:45'
+   - name: Localizando características en modelos para inicializar líneas de producto
+     time_start: '16:45'
+     time_end: '17:00'
+   - name: FRANCISCO VALDES SOUTO
+     time_start: '17:00'
+     time_end: '17:15'
+   - name: Variabilidad en torno al cumplimiento de normativas y estándares (safety, seguridad, privacidad)
+     time_start: '17:15'
+     time_end: '17:30'
+   - name: Despedida y Cierre
+     time_start: '17:30'
+     time_end: '17:45'
+   
 

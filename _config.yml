@@ -105,9 +105,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Organizacion
         color: info
-      - name: Cat B
+      - name: Presentación de grupo y colaboraciones
         color: success
 
   speakers:

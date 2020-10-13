@@ -1,7 +1,7 @@
 ---
-name: Arcu Non Odio
+name: Leticia Montalvillo
 speakers:
-  - Alex Rosales
+  - Leticia Montalvillo
 categories:
   - Cat A
   - Talk

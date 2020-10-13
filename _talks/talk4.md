@@ -1,5 +1,5 @@
 ---
-name: Eu Nisl Nunc Mi Ipsum Faucibus
+name: VariaMos - Una herramienta para gestionar líneas de productos
 speakers:
   - The Anonymous
 categories:

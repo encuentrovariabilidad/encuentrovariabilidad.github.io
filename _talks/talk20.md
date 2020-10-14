@@ -1,10 +1,9 @@
 ---
-name: Web System Development based on Product Line Architectures
+name: Desarrollo de sistemas Web basado en arquitecturas de líneas de producto
 speakers:
   - Hector Duran Limon
 categories:
   - Aplicación
 hidden: false
 ---
-Software product lines have helped to reduce costs and the time-to-market in different application domain areas. However, employing SPL for web development has received little attention. In this work, we propose a framework to develop web systems based on product-line architectures.  Our approach accelerates the development process by raising the level of abstraction of the customization procedures to maintain and evolve web product lines.  We develop a prototype to assess the effectiveness and efficiency of our approach.
-
+Las líneas de producto software han ayudado a reducir costes y el time-to-market en diferentes dominios de aplicación. Sin embargo, el uso de líneas de producto para el desarrollo Web ha recibido poca atención. En este trabajo, proponemos una plataforma para el desarrollo de sistemas Web basado en líneas de producto. Nuestro enfoque acelera la productividad a través de aumentar el nivel de abstración en los procedimientos de customización en el mantenimiento y evolución de líneas de producto Web. Hemos desarrollado un prototipo para mostrar la efectividad y eficacia de nuestro enfoque.

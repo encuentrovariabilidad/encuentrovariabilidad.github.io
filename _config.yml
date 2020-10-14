@@ -83,8 +83,12 @@ conference:
     logo:
        img: 'logo.png'
     links:
-      #- name: Program
-      #  relative_url: /program/
+      - name: Programa
+        relative_url: /program/
+      - name: Charlas
+        relative_url: /talks/
+      - name: Ponentes
+        relative_url: /speakers/
       #- name: How to get there
       #  relative_url: /location/
       #- name: Tickets

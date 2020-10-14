@@ -62,12 +62,12 @@ conference:
       # img: ''
       url: 'https://encuentrovariabilidad.github.io/'
     links:
-      #- name: Program
-      #  relative_url: /program/
-      #- name: Talks
-      #  relative_url: /talks/
-      #- name: Speakers
-      #  relative_url: /speakers/
+      - name: Programa
+        relative_url: /program/
+      - name: Charlas
+        relative_url: /talks/
+      - name: Ponentes
+        relative_url: /speakers/
       #- name: Location
       #  relative_url: /location/
       #- name: Previous Editions
@@ -105,9 +105,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Organizacion
+      - name: Organización
         color: info
-      - name: Presentación de grupo y colaboraciones
+      - name: Charla
         color: success
 
   speakers:

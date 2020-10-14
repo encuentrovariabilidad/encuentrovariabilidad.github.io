@@ -113,7 +113,7 @@ def create_files(content, folder_name,
                 text = escape_markdown(entry[file_content])
 
                 f.write(text)
-
+        print(entry)
 
 default_list_structure = {
     'program': {
@@ -150,7 +150,6 @@ def create_list(content, file_path,
         data.append({
             list_sorting: list_title,
             sublist_name: new_entries})
-
     with open(file_path, 'w', encoding='utf-8') as f:
         yaml.dump(data, f,
                   encoding='utf-8', allow_unicode=True,

@@ -6,7 +6,7 @@
    - name: Trayectoria y posibles colaboraciones desde Sevilla
      time_start: '15:15'
      time_end: '15:30'
-   - name: Leticia Montalvillo
+   - name: Nuevas incorporaciones en proyectos SPL. Necesidad de herramientas de asistencia
      time_start: '15:30'
      time_end: '15:45'
    - name: VariaMos - Una herramienta para gestionar líneas de productos
@@ -27,36 +27,36 @@
    - name: mHealth, IoT y prácticas en NUTES y Sênior Mobile Health
      time_start: '17:00'
      time_end: '17:15'
-   - name: Nuevas incorporaciones en proyectos SPL. Necesidad de herramientas de asistencia
+   - name: Web System Development based on Product Line Architectures
      time_start: '17:15'
      time_end: '17:30'   
 - room: Martes 27 Octubre
   talks:
-   - name: Bienvenida
+   - name: Verificación y Validación de Sistemas Altamente Configurables
      time_start: '15:00'
      time_end: '15:15'
-   - name: Leticia Montalvillo
+   - name: Direcciones actuales en IKERLAN
      time_start: '15:15'
      time_end: '15:30'
-   - name: Modelado y gestión dinámica de la variabilidad en sistemas robóticos
+   - name: Localizando características en modelos para inicializar líneas de producto
      time_start: '15:30'
      time_end: '15:45'
-   - name: Demostración. Línea de producto software y desarrollo dirigido por modelos para la generación de aplicaciones web
+   - name: Línea de producto software y desarrollo dirigido por modelos para la generación de aplicaciones web
      time_start: '15:45'
      time_end: '16:00'
    - name: Descanso para el café
      time_start: '16:00'
      time_end: '16:15'
-   - name: Roberto Erick Lopez Herrejon
+   - name: Presentación grupo École de technologie supérieure
      time_start: '16:15'
      time_end: '16:30'
-   - name: Verificación y Validación de Sistemas Altamente Configurables
+   - name: Variabilidad y E-health
      time_start: '16:30'
      time_end: '16:45'
-   - name: Localizando características en modelos para inicializar líneas de producto
+   - name: Modelado y gestión dinámica de la variabilidad en sistemas robóticos
      time_start: '16:45'
      time_end: '17:00'
-   - name: FRANCISCO VALDES SOUTO
+   - name: Presentación investigación
      time_start: '17:00'
      time_end: '17:15'
    - name: Variabilidad en torno al cumplimiento de normativas y estándares (safety, seguridad, privacidad)

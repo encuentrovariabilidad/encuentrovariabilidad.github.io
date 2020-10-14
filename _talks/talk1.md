@@ -5,6 +5,6 @@ speakers:
   - Aitor Arrieta
   - José A. Galindo
 categories:
-  - Organizacion
+  - Organización
 hide: true
 ---

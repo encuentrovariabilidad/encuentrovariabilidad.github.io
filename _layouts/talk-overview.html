@@ -39,17 +39,12 @@
                   {% for r in site.data.program %}
                     {% for t in r.talks %}
                       {% if talk.name == t.name %}
-                        {% include partials/get_talk_time.html %}
-                        {% assign room = site.rooms | where: 'name', r.room | first %}
                         {% break %}
                       {% endif %}
                     {% endfor %}
                   {% endfor %}
 
-                  {{ site.data.lang[site.conference.lang].pronoun.at }} {% include partials/show_talk_time.html %}
-
-                  {{ site.data.lang[site.conference.lang].pronoun.in }} {% include partials/show_room.html %}
-                </p>
+                 
               {% endif %}
 
             </li>

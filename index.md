@@ -9,15 +9,13 @@ El encuentro Iberoamericano sobre Variabilidad, Sistemas Configurables y Lí­ne
 
 [**REGÍSTRATE GRATUITAMENTE PINCHANDO AQUÍ**](https://forms.gle/WcZJ6orzLNX2GSuw6)
 
-Los principales objetivos del foro se pueden resumir como:
+Los principales objetivos del foro son:
 
-* Promover la colaboración entre los distintos grupos de investigación dedicados a las lineas de producto, la variabilidad y los sistemas altamente configurables. 
+* Promover la colaboración entre los distintos grupos de investigación dedicados a las líneas de producto, la variabilidad y los sistemas altamente configurables. 
 
-* Aglutinar el conocimiento existente en el area identificando los retos actuales existentes en el area. 
+* Aglutinar el conocimiento existente en el área identificando los retos actuales. 
 
 * Promover las sinergias entre la industria y la academia dentro del ámbito del encuentro.
-
-**Lista de presentaciones confirmadas (programa definitivo y horas concretas serán anunciadas pronto)**
 
 Coordinadores: Jabier Martínez (Tecnalia), Aitor Arrieta (Univ. de Mondragón), José Galindo (Univ. de Sevilla) y Lidia Fuentes (Univ. de Málaga)
 

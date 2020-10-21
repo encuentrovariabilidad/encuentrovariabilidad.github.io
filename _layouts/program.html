@@ -157,12 +157,20 @@
                   {% include partials/get_main_category.html %}
                   <td rowspan="{{ talk_nbr_steps }}" class="alert alert-{{ main_cat_color }} shadow-sm" style="z-index: {{ z-index-max | minus: i }}">
 
-                    <p class="mb-2">
+                    <p class="mb-2" style="font-weight: bolder !important;">
                       {% include partials/show_talk.html %}
                     </p>
                     <p class="font-weight-light mb-2">
                       {% include partials/list_speakers.html %}
                     </p>
+                    <div style="text-align: right;font-style: italic;"> 
+                    <ul style="list-style-type:none;">
+                      {% for speaker_name in talk.speakers %}
+                        {% assign speaker = site.speakers | where: 'name', speaker_name | first %}
+                        <li>{{speaker.institution}}</li>
+                        {% endfor %}
+                    </ul>
+                    </div>
                     <p class="mb-1">
                       {% include partials/list_sub_categories.html %}
                     </p>

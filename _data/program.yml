@@ -3,7 +3,7 @@
    - name: Bienvenida
      time_start: '15:00'
      time_end: '15:15'
-   - name: Trayectoria y posibles colaboraciones desde Sevilla
+   - name: Direcciones actuales en IKERLAN
      time_start: '15:15'
      time_end: '15:30'
    - name: Nuevas incorporaciones en proyectos SPL. Necesidad de herramientas de asistencia
@@ -35,7 +35,7 @@
    - name: Verificación y Validación de Sistemas Altamente Configurables
      time_start: '15:00'
      time_end: '15:15'
-   - name: Direcciones actuales en IKERLAN
+   - name: Trayectoria y posibles colaboraciones desde Sevilla
      time_start: '15:15'
      time_end: '15:30'
    - name: Localizando características en modelos para inicializar líneas de producto

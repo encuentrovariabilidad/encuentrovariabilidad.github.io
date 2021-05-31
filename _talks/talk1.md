@@ -8,4 +8,5 @@ speakers:
 categories:
   - Organización
 hide: true
+presentation: presentations/2020/EV2020_Opening.pdf
 ---

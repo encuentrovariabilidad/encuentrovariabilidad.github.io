@@ -28,14 +28,16 @@
           <ul class="list-unstyled">
       {% endif %}
 
-      <li class="font-weight-light">
+      <li class="font-weight-light" style="font-weight: bolder !important;">
         {% if speaker.hide %}
-          {{ speaker.first_name }} {{ speaker.last_name }}
+            {{ speaker.first_name }} {{ speaker.last_name }} 
         {% else %}
           <a href="{{ speaker.url | prepend: site.baseurl }}">
-            {{ speaker.first_name }} {{ speaker.last_name }}
+            {{ speaker.first_name }} {{ speaker.last_name }} 
           </a>
         {% endif %}
+        
+        <li style="text-align: right;font-style: italic;"> {{ speaker.institution }} </li>
       </li>
 
     {% endfor %}
